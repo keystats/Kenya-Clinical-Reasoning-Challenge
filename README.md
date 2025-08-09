@@ -2,9 +2,9 @@
 # 🌍 Kenya Clinical Reasoning Challenge 🩺
 
 [![Zindi](https://img.shields.io/badge/Zindi-Challenge-orange)](https://zindi.africa/competitions/kenya-clinical-reasoning-challenge)
-[![Leaderboard](https://img.shields.io/badge/Leaderboard-Top%2045-brightgreen)](#results)
+[![Leaderboard](https://zindi.africa/competitions/kenya-clinical-reasoning-challenge/leaderboard)
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
+
 
 ---
 
